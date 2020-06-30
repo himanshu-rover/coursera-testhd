@@ -1,0 +1,107 @@
+	
+		h1{
+			font-family: Arial;
+			font-style: italic;
+			font-size: 24px;
+			font-weight: bold;
+			color: blue;
+			margin-top: 60px;
+			margin-bottom: 60px;
+			text-align: center;
+
+		}
+		.row{
+			margin-right: 0px;
+		}
+		*{
+			box-sizing: border-box;
+		}
+		section{
+			background-color: #17A589;
+			border: solid black 2px;
+		
+			margin-bottom: 10px;
+			padding: 10px;
+			width: 100%;
+		}
+		section{
+
+		}
+		p{
+			position: relative;
+			font-family: cursive;
+			font-size: 16px;
+			padding: 10px;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 40px;
+			text-align: justify;
+		}
+		h2{
+			border: solid black 2px;
+			float: right;
+			padding: 10px;
+			margin-top: -12px;
+			margin-right: -12px;
+			background-color: #F4D03F;
+		}
+		@media(min-width: 992px){
+			.log1, .log2, .log3, .log4, .log5, .log6, .log7, .log8, .log9, .log10, .log11, .log12
+			{float: left;}
+			.log1{width: 8.33%}
+			.log2{width: 16.66%}
+			.log3{width: 25%}
+			.log4{width: 33.33%}
+			.log5{width: 41.66%}
+			.log6{width: 50%}
+			.log7{width: 58.33%}
+			.log8{width: 66.66%}
+			.log9{width: 74.99%}
+			.log10{width: 83.33%}
+			.log11{width: 91.66%}
+			.log12{width: 100%}
+
+
+			
+		}
+		@media(max-width: 762px){
+			.sm1, .sm2, .sm3, .sm4, .sm5, .sm6, .sm7, .sm8, .sm9, .sm10, .sm11, .sm12
+			{float: left;}
+			.sm1{width: 8.33%}
+			.sm2{width: 16.66%}
+			.sm3{width: 25%}
+			.sm4{width: 33.33%}
+			.sm5{width: 41.66%}
+			.sm6{width: 50%}
+			.sm7{width: 58.33%}
+			.sm8{width: 66.66%}
+			.sm9{width: 74.99%}
+			.sm10{width: 83.33%}
+			.sm11{width: 91.66%}
+			.sm12{width: 100%}
+
+
+			
+		}
+		@media(min-width: 768px) and (max-width: 991px){
+			.md1, .md2, .md3, .md4, .md5, .md6, .md7, .md8, .md9, .md10, .md11, .md12
+			{float: left;}
+			.md1{width: 8.33%}
+			.md2{width: 16.66%}
+			.md3{width: 25%}
+			.md4{width: 33.33%}
+			.md5{width: 41.66%}
+			.md6{width: 50%}
+			.md7{width: 58.33%}
+			.md8{width: 66.66%}
+			.md9{width: 74.99%}
+			.md10{width: 83.33%}
+			.md11{width: 91.66%}
+			.md12{width: 100%}
+
+
+			
+		}
+
+
+	
